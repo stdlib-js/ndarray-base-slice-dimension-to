@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-slice-dimension-to",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a truncated view of an input ndarray along a specific dimension.",
   "license": "Apache-2.0",
   "author": {
@@ -39,7 +39,7 @@
   "dependencies": {
     "@stdlib/array-base-filled": "^0.1.0",
     "@stdlib/ndarray-base-ndims": "^0.1.0",
-    "@stdlib/ndarray-base-normalize-index": "github:stdlib-js/ndarray-base-normalize-index#main",
+    "@stdlib/ndarray-base-normalize-index": "^0.1.0",
     "@stdlib/ndarray-base-slice": "^0.1.0",
     "@stdlib/slice-base-args2multislice": "^0.1.0",
     "@stdlib/slice-ctor": "^0.1.0",
