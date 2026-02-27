@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8e51991`](https://github.com/stdlib-js/stdlib/commit/8e519911fa82286c82b696e058c5da2fba071c3e) - **style:** revert style changes _(by Athan Reines)_
 -   [`965c4b9`](https://github.com/stdlib-js/stdlib/commit/965c4b9341f4a3b721a06bfd5c48e1393b5ab59d) - **chore:** fix JavaScript lint errors [(#10380)](https://github.com/stdlib-js/stdlib/pull/10380) _(by Bhargav Dabhade)_
 
 </details>
@@ -36,8 +37,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Bhargav Dabhade
 
 </section>
