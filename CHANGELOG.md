@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-09-25)
+
+<section class="features">
+
+### Features
+
+-   [`736ac5e`](https://github.com/stdlib-js/stdlib/commit/736ac5eb4396e350e060df6008acaffb1b8c994a) - add float16 dtype support to `ndarray/base/slice-dimension-to` [(#15530)](https://github.com/stdlib-js/stdlib/pull/15530)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`736ac5e`](https://github.com/stdlib-js/stdlib/commit/736ac5eb4396e350e060df6008acaffb1b8c994a) - **feat:** add float16 dtype support to `ndarray/base/slice-dimension-to` [(#15530)](https://github.com/stdlib-js/stdlib/pull/15530) _(by Samarth Kolarkar)_
 -   [`8e51991`](https://github.com/stdlib-js/stdlib/commit/8e519911fa82286c82b696e058c5da2fba071c3e) - **style:** revert style changes _(by Athan Reines)_
 -   [`965c4b9`](https://github.com/stdlib-js/stdlib/commit/965c4b9341f4a3b721a06bfd5c48e1393b5ab59d) - **chore:** fix JavaScript lint errors [(#10380)](https://github.com/stdlib-js/stdlib/pull/10380) _(by Bhargav Dabhade)_
 
@@ -37,10 +48,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Bhargav Dabhade
+-   Samarth Kolarkar
 
 </section>
 
